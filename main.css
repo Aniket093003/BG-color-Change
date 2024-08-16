@@ -1,0 +1,30 @@
+body{
+    background-color: #414141;
+    color: aliceblue;
+    align-items: center;
+    padding: 50px;
+}
+
+.button{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    font-size: 20px;
+}
+#red{
+    background-color: red;
+    color: rgb(0, 0, 0);
+}
+#yellow{
+    background-color: yellow;
+    color: #000000;
+}
+#blue{
+    background-color: blue;
+    color: #000000;
+}
+#green{
+    background-color: green;
+    color: #000000;
+}
